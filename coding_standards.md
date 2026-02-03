@@ -26,7 +26,3 @@
 ## 6. Tests
 * Add `unittest` coverage for edge cases, invalid inputs, and boundary conditions.
 * Avoid flaky tests; keep tests deterministic.
-
----
-
-Note: The starter `shipping_calculator.py` is intentionally "legacy" and may violate these standards. Your refactor should move it toward compliance.
